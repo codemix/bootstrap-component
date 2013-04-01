@@ -1,0 +1,28 @@
+{
+  "name": "bootstrap-component",
+  "repo": "codemix/bootstrap-component",
+  "description": "Component.js version of twitter bootstrap, updated regularly",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "component/jquery": "*",
+    "codemix/bootstrap-css": "*",
+    "codemix/bootstrap-affix": "*",
+    "codemix/bootstrap-alert": "*",
+    "codemix/bootstrap-button": "*",
+    "codemix/bootstrap-carousel": "*",
+    "codemix/bootstrap-dropdown": "*",
+    "codemix/bootstrap-modal": "*",
+    "codemix/bootstrap-popover": "*",
+    "codemix/bootstrap-scrollspy": "*",
+    "codemix/bootstrap-tab": "*",
+    "codemix/bootstrap-tooltip": "*",
+    "codemix/bootstrap-transition": "*",
+    "codemix/bootstrap-typeahead": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
