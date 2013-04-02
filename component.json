@@ -11,6 +11,7 @@
     "codemix/bootstrap-alert": "*",
     "codemix/bootstrap-button": "*",
     "codemix/bootstrap-carousel": "*",
+    "codemix/bootstrap-collapse": "*",
     "codemix/bootstrap-dropdown": "*",
     "codemix/bootstrap-modal": "*",
     "codemix/bootstrap-popover": "*",
